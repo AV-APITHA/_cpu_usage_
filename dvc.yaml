@@ -22,12 +22,14 @@ stages:
    evaluate:
 
     cmd: python evaluate.py
-      deps:
+    deps:
+      
         
-        - processed_data.csv
-        - model.pkl
-        - evaluate.py
-      outs:
+      - processed_data.csv
+      - model.pkl
+      - evaluate.py
+    outs:
+      - metrics.json
         
-        - metrics.json
+        
 
