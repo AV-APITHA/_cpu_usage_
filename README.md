@@ -23,6 +23,7 @@ AV-APITHA/
 ⚙ Setup Instructions
 
 1. Clone the repository:
+
 git clone https://github.com/AV-APITHA/_cpu_usage_.git
 cd AV-APITHA
 2. Install dependencies:
