@@ -1,12 +1,10 @@
 CPU Usage Prediction
-
 📌 Project Overview
 This project predicts CPU usage from tabular system metrics. It demonstrates:
 Data versioning with DVC
 Reproducible ML pipelines (preprocess → train → evaluate)
 Model training and evaluation
 ---
-
 📂 Repository Structure
 AV-APITHA/
 │── .config                  # Colab/IDE configurations
@@ -23,7 +21,6 @@ AV-APITHA/
 ⚙ Setup Instructions
 
 1. Clone the repository:
-
 git clone https://github.com/AV-APITHA/_cpu_usage_.git
 cd AV-APITHA
 2. Install dependencies:
