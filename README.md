@@ -1,5 +1,5 @@
-CPU Usage Prediction
-📌 Project Overview
+CPU Usage Prediction 📌 Project
+Overview
 This project predicts CPU usage from tabular system metrics. It demonstrates:
 Data versioning with DVC
 Reproducible ML pipelines (preprocess → train → evaluate)
